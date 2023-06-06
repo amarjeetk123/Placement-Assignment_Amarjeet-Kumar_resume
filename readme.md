@@ -1,4 +1,4 @@
- # Task Manager 
+ # Resume 
 
 ![](https://img.shields.io/badge/iNeuron-orange)
 ![](https://img.shields.io/badge/Hitesh%20Chaoudhry-LCO-g)
